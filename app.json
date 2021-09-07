@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-treino",
-    "slug": "react-native-treino",
+    "name": "mobile-calculator",
+    "slug": "mobile-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/garcia-paulo/mobile-calculator"
   }
 }
